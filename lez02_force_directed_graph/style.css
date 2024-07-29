@@ -1,0 +1,11 @@
+.custom-node{
+    fill: blue;
+    stroke: yellow;
+    stroke-width: 5px;
+    
+}
+
+.custom-line{
+    stroke: #e2e2e2;
+    stroke-width: 5px;
+}
